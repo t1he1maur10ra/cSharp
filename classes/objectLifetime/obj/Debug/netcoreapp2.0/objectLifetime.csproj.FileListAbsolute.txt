@@ -1,0 +1,11 @@
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\bin\Debug\netcoreapp2.0\objectLifetime.deps.json
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\bin\Debug\netcoreapp2.0\objectLifetime.runtimeconfig.json
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\bin\Debug\netcoreapp2.0\objectLifetime.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\bin\Debug\netcoreapp2.0\objectLifetime.dll
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\bin\Debug\netcoreapp2.0\objectLifetime.pdb
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\obj\Debug\netcoreapp2.0\objectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\obj\Debug\netcoreapp2.0\objectLifetime.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\obj\Debug\netcoreapp2.0\objectLifetime.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\obj\Debug\netcoreapp2.0\objectLifetime.dll
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\obj\Debug\netcoreapp2.0\objectLifetime.pdb
+C:\Users\Jacob\Desktop\c#\classes\objectLifetime\obj\Debug\netcoreapp2.0\objectLifetime.csprojResolveAssemblyReference.cache

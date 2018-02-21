@@ -1,0 +1,11 @@
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\bin\Debug\netcoreapp2.0\dateTime.deps.json
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\bin\Debug\netcoreapp2.0\dateTime.runtimeconfig.json
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\bin\Debug\netcoreapp2.0\dateTime.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\bin\Debug\netcoreapp2.0\dateTime.dll
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\bin\Debug\netcoreapp2.0\dateTime.pdb
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\obj\Debug\netcoreapp2.0\dateTime.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\obj\Debug\netcoreapp2.0\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\obj\Debug\netcoreapp2.0\dateTime.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\obj\Debug\netcoreapp2.0\dateTime.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\obj\Debug\netcoreapp2.0\dateTime.dll
+C:\Users\Jacob\Desktop\c#\dateTime\dateTime\obj\Debug\netcoreapp2.0\dateTime.pdb

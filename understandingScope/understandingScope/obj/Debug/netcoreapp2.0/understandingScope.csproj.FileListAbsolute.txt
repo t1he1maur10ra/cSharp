@@ -1,0 +1,11 @@
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\bin\Debug\netcoreapp2.0\understandingScope.deps.json
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\bin\Debug\netcoreapp2.0\understandingScope.runtimeconfig.json
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\bin\Debug\netcoreapp2.0\understandingScope.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\bin\Debug\netcoreapp2.0\understandingScope.dll
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\bin\Debug\netcoreapp2.0\understandingScope.pdb
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\obj\Debug\netcoreapp2.0\understandingScope.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\obj\Debug\netcoreapp2.0\understandingScope.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\obj\Debug\netcoreapp2.0\understandingScope.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\obj\Debug\netcoreapp2.0\understandingScope.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\obj\Debug\netcoreapp2.0\understandingScope.dll
+C:\Users\Jacob\Desktop\c#\understandingScope\understandingScope\obj\Debug\netcoreapp2.0\understandingScope.pdb

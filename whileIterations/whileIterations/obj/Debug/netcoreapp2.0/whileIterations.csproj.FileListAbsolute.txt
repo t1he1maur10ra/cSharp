@@ -1,0 +1,11 @@
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\bin\Debug\netcoreapp2.0\whileIterations.deps.json
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\bin\Debug\netcoreapp2.0\whileIterations.runtimeconfig.json
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\bin\Debug\netcoreapp2.0\whileIterations.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\bin\Debug\netcoreapp2.0\whileIterations.dll
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\bin\Debug\netcoreapp2.0\whileIterations.pdb
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\obj\Debug\netcoreapp2.0\whileIterations.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\obj\Debug\netcoreapp2.0\whileIterations.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\obj\Debug\netcoreapp2.0\whileIterations.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\obj\Debug\netcoreapp2.0\whileIterations.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\obj\Debug\netcoreapp2.0\whileIterations.dll
+C:\Users\Jacob\Desktop\c#\whileIterations\whileIterations\obj\Debug\netcoreapp2.0\whileIterations.pdb

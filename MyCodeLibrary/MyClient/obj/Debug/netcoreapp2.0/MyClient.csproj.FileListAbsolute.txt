@@ -1,0 +1,13 @@
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\bin\Debug\netcoreapp2.0\MyClient.deps.json
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\bin\Debug\netcoreapp2.0\MyClient.runtimeconfig.json
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\bin\Debug\netcoreapp2.0\MyClient.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\bin\Debug\netcoreapp2.0\MyClient.dll
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\bin\Debug\netcoreapp2.0\MyClient.pdb
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\bin\Debug\netcoreapp2.0\MyCodeLibrary.dll
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\bin\Debug\netcoreapp2.0\MyCodeLibrary.pdb
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\obj\Debug\netcoreapp2.0\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\obj\Debug\netcoreapp2.0\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\obj\Debug\netcoreapp2.0\MyClient.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\obj\Debug\netcoreapp2.0\MyClient.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\obj\Debug\netcoreapp2.0\MyClient.dll
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyClient\obj\Debug\netcoreapp2.0\MyClient.pdb

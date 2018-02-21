@@ -1,0 +1,11 @@
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\bin\Debug\netcoreapp2.0\forIterations.deps.json
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\bin\Debug\netcoreapp2.0\forIterations.runtimeconfig.json
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\bin\Debug\netcoreapp2.0\forIterations.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\bin\Debug\netcoreapp2.0\forIterations.dll
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\bin\Debug\netcoreapp2.0\forIterations.pdb
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\obj\Debug\netcoreapp2.0\forIterations.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\obj\Debug\netcoreapp2.0\forIterations.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\obj\Debug\netcoreapp2.0\forIterations.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\obj\Debug\netcoreapp2.0\forIterations.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\obj\Debug\netcoreapp2.0\forIterations.dll
+C:\Users\Jacob\Desktop\c#\forIterations\forIterations\obj\Debug\netcoreapp2.0\forIterations.pdb

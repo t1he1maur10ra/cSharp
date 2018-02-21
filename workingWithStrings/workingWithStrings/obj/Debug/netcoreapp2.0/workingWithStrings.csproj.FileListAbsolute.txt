@@ -1,0 +1,11 @@
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp2.0\workingWithStrings.deps.json
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp2.0\workingWithStrings.runtimeconfig.json
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp2.0\workingWithStrings.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp2.0\workingWithStrings.dll
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\bin\Debug\netcoreapp2.0\workingWithStrings.pdb
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp2.0\workingWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp2.0\workingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp2.0\workingWithStrings.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp2.0\workingWithStrings.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp2.0\workingWithStrings.dll
+C:\Users\Jacob\Desktop\c#\workingWithStrings\workingWithStrings\obj\Debug\netcoreapp2.0\workingWithStrings.pdb

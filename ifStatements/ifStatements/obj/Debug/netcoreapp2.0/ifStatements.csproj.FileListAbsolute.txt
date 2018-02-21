@@ -1,0 +1,11 @@
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\bin\Debug\netcoreapp2.0\ifStatements.deps.json
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\bin\Debug\netcoreapp2.0\ifStatements.runtimeconfig.json
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\bin\Debug\netcoreapp2.0\ifStatements.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\bin\Debug\netcoreapp2.0\ifStatements.dll
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\bin\Debug\netcoreapp2.0\ifStatements.pdb
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\obj\Debug\netcoreapp2.0\ifStatements.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\obj\Debug\netcoreapp2.0\ifStatements.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\obj\Debug\netcoreapp2.0\ifStatements.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\obj\Debug\netcoreapp2.0\ifStatements.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\obj\Debug\netcoreapp2.0\ifStatements.dll
+C:\Users\Jacob\Desktop\c#\ifStatements\ifStatements\obj\Debug\netcoreapp2.0\ifStatements.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.dll
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyCodeLibrary\bin\Debug\MyCodeLibrary.pdb
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.dll
+C:\Users\Jacob\Desktop\c#\MyCodeLibrary\MyCodeLibrary\obj\Debug\MyCodeLibrary.pdb
